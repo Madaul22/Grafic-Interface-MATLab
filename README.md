@@ -24,14 +24,18 @@ Acest proiect constă într-o aplicație dezvoltată în **MATLAB** care permite
 Organizarea fișierelor reflectă o separare clară între codul sursă, documentație și resurse vizuale:
 
 - 📁 **`photos/`**: Conține imaginile cu interfața grafică și graficele rezultate.
-- 📄 **`Amplificator_Clasa_B.m`**: Fișierul sursă al aplicației MATLAB (App Designer).
+- 📄 **`proiect_gac.m`**: Fișierul sursă al aplicației MATLAB (App Designer).
 - 📄 **`Amplificator de clasa B (Madarasan).pdf`**: Raportul tehnic complet cu fundalul teoretic și instrucțiuni.
 
 ---
 
 ### 🖼️ Prezentare Interfață
 Aplicația oferă o vizualizare clară a punctelor de funcționare și a limitărilor de putere, conform capturilor de ecran din folderul dedicat:
-
+<p align="center">
+  <img src="photos/ss1_png" width="220"/>
+  <img src="etaj2_breadboard.jpeg" alt="Etaj 2" width="220"/>
+  <img src="etaj3_breadboard.jpeg" alt="Etaj 3" width="220"/>
+</p>
 <p align="center">
   <img src="Screenshot 2026-03-28 at 12.21.49.jpg" alt="Interfata Aplicatie MATLAB" width="600"/>
 </p>
