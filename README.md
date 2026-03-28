@@ -10,12 +10,12 @@
 ---
 
 ### 📝 Descriere Proiect
-[cite_start]Acest proiect constă într-o aplicație dezvoltată în **MATLAB** care permite simularea și analiza unui amplificator de putere în clasă B. [cite_start]Utilizatorul poate introduce parametrii circuitului și poate vizualiza instantaneu caracteristicile dinamice și eficiența energetică a acestuia.
+Acest proiect constă într-o aplicație dezvoltată în **MATLAB** care permite simularea și analiza unui amplificator de putere în clasă B. Utilizatorul poate introduce parametrii circuitului și poate vizualiza instantaneu caracteristicile dinamice și eficiența energetică a acestuia.
 
 **Funcționalități Cheie:**
-- [cite_start]🔄 **Analiză Dinamică:** Calculul puterii de ieșire ($P_{out}$), puterii absorbite de la sursă ($P_{CC}$) și puterii disipate ($P_d$).
-- [cite_start]📈 **Randament:** Calculul și afișarea randamentului ($\eta$) în funcție de amplitudinea semnalului.
-- [cite_start]🖥️ **Interfață Interactivă:** Modificarea parametrilor în timp real prin elemente de control grafic (slider, edit fields).
+- 🔄 **Analiză Dinamică:** Calculul puterii de ieșire ($P_{out}$), puterii absorbite de la sursă ($P_{CC}$) și puterii disipate ($P_d$).
+- 📈 **Randament:** Calculul și afișarea randamentului ($\eta$) în funcție de amplitudinea semnalului.
+- 🖥️ **Interfață Interactivă:** Modificarea parametrilor în timp real prin elemente de control grafic (slider, edit fields).
 
 ---
 
@@ -27,9 +27,9 @@ Organizarea fișierelor reflectă o separare clară între codul sursă, documen
   <img src="Screenshot 2026-03-28 at 12.21.40.png" alt="Structura Repository MATLAB" width="500"/>
 </p>
 
-- [cite_start]📁 **`screenshots/`**: Conține imaginile cu interfața grafică și graficele rezultate[cite: 2, 3].
-- [cite_start]📄 **`Amplificator_Clasa_B.mlapp`**: Fișierul sursă al aplicației MATLAB (App Designer).
-- [cite_start]📄 **`Amplificator de clasa B (Madarasan).pdf`**: Raportul tehnic complet cu fundalul teoretic și instrucțiuni[cite: 1, 2].
+- 📁 **`photos/`**: Conține imaginile cu interfața grafică și graficele rezultate.
+- 📄 **`Amplificator_Clasa_B.m`**: Fișierul sursă al aplicației MATLAB (App Designer).
+- 📄 **`Amplificator de clasa B (Madarasan).pdf`**: Raportul tehnic complet cu fundalul teoretic și instrucțiuni.
 
 ---
 
