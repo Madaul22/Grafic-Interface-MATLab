@@ -23,10 +23,6 @@ Acest proiect constă într-o aplicație dezvoltată în **MATLAB** care permite
 
 Organizarea fișierelor reflectă o separare clară între codul sursă, documentație și resurse vizuale:
 
-<p align="center">
-  <img src="Screenshot 2026-03-28 at 12.21.40.png" alt="Structura Repository MATLAB" width="500"/>
-</p>
-
 - 📁 **`photos/`**: Conține imaginile cu interfața grafică și graficele rezultate.
 - 📄 **`Amplificator_Clasa_B.m`**: Fișierul sursă al aplicației MATLAB (App Designer).
 - 📄 **`Amplificator de clasa B (Madarasan).pdf`**: Raportul tehnic complet cu fundalul teoretic și instrucțiuni.
@@ -48,11 +44,6 @@ Aplicația oferă o vizualizare clară a punctelor de funcționare și a limită
 </p>
 
 ---
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="mailto:alexhdplusro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-</p>
 
 <p align="center">
   <i>Realizat de Mădărășan Ioan-Alexandru</i>
