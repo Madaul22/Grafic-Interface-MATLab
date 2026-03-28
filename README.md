@@ -45,9 +45,9 @@ Aplicația oferă o vizualizare clară a punctelor de funcționare și a limită
 ---
 
 ### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
-</p>
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+  </a>
 
 ---
 
