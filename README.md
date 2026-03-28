@@ -32,12 +32,14 @@ Organizarea fișierelor reflectă o separare clară între codul sursă, documen
 ### 🖼️ Prezentare Interfață
 Aplicația oferă o vizualizare clară a punctelor de funcționare și a limitărilor de putere, conform capturilor de ecran din folderul dedicat:
 <p align="center">
-  <img src="ss1_png" width="220"/>
-  <img src="etaj2_breadboard.jpeg" alt="Etaj 2" width="220"/>
-  <img src="etaj3_breadboard.jpeg" alt="Etaj 3" width="220"/>
+  <img src="ss1.png" alt="ss1" width="220"/>
+  <img src="ss2.png" alt="ss2" width="220"/>
+  <img src="ss3.png" alt="ss3" width="220"/>
 </p>
 <p align="center">
-  <img src="Screenshot 2026-03-28 at 12.21.49.jpg" alt="Interfata Aplicatie MATLAB" width="600"/>
+   <img src="ss4.png" alt="ss4" width="220"/>
+   <img src="ss5.png" alt="ss5" width="220"/>
+   <img src="ss6.png" alt="ss6" width="220"/>
 </p>
 
 ---
