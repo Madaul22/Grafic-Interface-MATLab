@@ -32,7 +32,7 @@ Organizarea fișierelor reflectă o separare clară între codul sursă, documen
 ### 🖼️ Prezentare Interfață
 Aplicația oferă o vizualizare clară a punctelor de funcționare și a limitărilor de putere, conform capturilor de ecran din folderul dedicat:
 <p align="center">
-  <img src="photos/ss1_png" width="220"/>
+  <img src="ss1_png" width="220"/>
   <img src="etaj2_breadboard.jpeg" alt="Etaj 2" width="220"/>
   <img src="etaj3_breadboard.jpeg" alt="Etaj 3" width="220"/>
 </p>
