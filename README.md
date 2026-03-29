@@ -1,4 +1,4 @@
-<h1 align="center">Analizor Amplificator de Clasa B- MATLAB GUI</h1>
+<h1 align="center">Analizor pentru Amplificatoare de Clasa B- MATLAB GUI</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Project_Completed-brightgreen?style=for-the-badge" alt="Status">
