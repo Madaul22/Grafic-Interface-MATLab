@@ -1,4 +1,4 @@
-<h1 align="center">📉 Class B Amplifier Analyzer - MATLAB GUI</h1>
+<h1 align="center">Analizor Amplificator de Clasa B- MATLAB GUI</h1>
 <h3 align="center">Interfață Grafică pentru Analiza Performanțelor de Putere</h3>
 
 <p align="center">
@@ -9,27 +9,21 @@
 
 ---
 
-### 📝 Descriere Proiect
-Acest proiect constă într-o aplicație dezvoltată în **MATLAB** care permite simularea și analiza unui amplificator de putere în clasă B. Utilizatorul poate introduce parametrii circuitului și poate vizualiza instantaneu caracteristicile dinamice și eficiența energetică a acestuia.
-
-**Funcționalități Cheie:**
-- 🔄 **Analiză Dinamică:** Calculul puterii de ieșire ($P_{out}$), puterii absorbite de la sursă ($P_{CC}$) și puterii disipate ($P_d$).
-- 📈 **Randament:** Calculul și afișarea randamentului ($\eta$) în funcție de amplitudinea semnalului.
-- 🖥️ **Interfață Interactivă:** Modificarea parametrilor în timp real prin elemente de control grafic (slider, edit fields).
-
+ <h2>Descriere Proiect</h2>
+<p>
+  Acest proiect constă într-o aplicație dezvoltată în MATLAB care permite simularea și analiza unui amplificator de putere în clasă B. 
+</p>
+  <p>Utilizatorul poate introduce parametrii circuitului și poate vizualiza instantaneu caracteristicile dinamice și eficiența energetică a acestuia.
+  </p>
+<p>Funcționalitățile cheie sunt: </p>
+<ul>
+  <li>Analiza dinamică care presupune calculul puterii de ieșire (Pout), puterii absorbite de la sursă (PCC) și puterii disipate (Pd).</li>
+  <li>Randamentul care presupune Calculul și afișarea randamentului (η) în funcție de amplitudinea semnalului.</li>
+  <li>Interfața interactivă care presupune modificarea parametrilor în timp real prin elemente de control grafic (slider, edit fields).</li>
+</ul>
 ---
 
-### 📂 Structură Repository (Ordonată)
-
-Organizarea fișierelor reflectă o separare clară între codul sursă, documentație și resurse vizuale:
-
-- 📁 **`photos/`**: Conține imaginile cu interfața grafică și graficele rezultate.
-- 📄 **`proiect_gac.m`**: Fișierul sursă al aplicației MATLAB (App Designer).
-- 📄 **`Amplificator de clasa B (Madarasan).pdf`**: Raportul tehnic complet cu fundalul teoretic și instrucțiuni.
-
----
-
-### 🖼️ Prezentare Interfață
+<h2>Prezentare Interfață</h2>
 Aplicația oferă o vizualizare clară a punctelor de funcționare și a limitărilor de putere, conform capturilor de ecran din folderul dedicat:
 <p align="center">
   <img src="ss1.png" alt="ss1" width="220"/>
@@ -44,10 +38,11 @@ Aplicația oferă o vizualizare clară a punctelor de funcționare și a limită
 
 ---
 
-### 🛠️ Languages and Tools:
+<h2> Languages and Tools:</h2>
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   </a>
+  MatLab
 
 ---
 
