@@ -21,6 +21,7 @@
   <li>Randamentul care presupune Calculul și afișarea randamentului (η) în funcție de amplitudinea semnalului.</li>
   <li>Interfața interactivă care presupune modificarea parametrilor în timp real prin elemente de control grafic (slider, edit fields).</li>
 </ul>
+
 ---
 
 <h2>Prezentare Interfață</h2>
